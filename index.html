@@ -20,10 +20,17 @@ layout: default
     display: table;
     clear: both;
 }
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
 </style>
 <div class="row">
   <div class="column">
-    <img src={{site.url}}im4.jpg>
+    <img src="{{site.url}}im4.jpg" class="rotate90">
   </div>
   <div class="column">
     <h1 class="page-heading">Posts</h1>
