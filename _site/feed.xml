@@ -3,10 +3,10 @@
   <channel>
     <title>Isaiah Jordan's Webpage</title>
     <description></description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Nov 2018 03:58:58 -0800</pubDate>
-    <lastBuildDate>Tue, 13 Nov 2018 03:58:58 -0800</lastBuildDate>
+    <link>https://isjordan.github.io//</link>
+    <atom:link href="https://isjordan.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Nov 2018 04:02:00 -0800</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 04:02:00 -0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;As an aside, Jekyll is worth checking out if you’re interested in making a webpage. It both is easy and gives a tremendous amount of control to the creator.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 Nov 2018 00:31:37 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2018/11/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/11/13/welcome-to-jekyll.html</guid>
+        <link>https://isjordan.github.io//jekyll/update/2018/11/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://isjordan.github.io//jekyll/update/2018/11/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
